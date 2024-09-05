@@ -6,7 +6,7 @@ INSTRUCTION: - If the user hovers over a price, it shows a blue button on the ro
 -->
 
 <template>
-    <section id="items-table-component" style="min-height: 430px" class="py-8 bg-white">
+    <section id="items-table-component" style="min-height: 790px"  class="py-8 bg-white">
         <h2 id="costs-title" class="text-lg font-semibold mb-5">Blockchain Information Packages</h2>
         <div id="costs-table-container" class="overflow-x-auto">
             <table id="costs-table" class="table-auto w-full text-sm">
